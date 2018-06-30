@@ -44,8 +44,7 @@ header nav {
      text-transform: uppercase;
      position: relative;
      top: 70px;
-     right: 180px;
-     float: right;
+     float: center;
      font-weight: bold;
 }
 
