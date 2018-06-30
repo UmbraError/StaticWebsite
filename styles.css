@@ -43,6 +43,7 @@ header h2 {
 header nav {
      text-align: center;
      text-transform: uppercase;
+     top: 70px;
      font-weight: bold;
 }
 
