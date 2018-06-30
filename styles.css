@@ -33,6 +33,10 @@ header nav {
      font-weight: bold;
 }
 
+header li {
+     color: #9A9A9A;
+}
+
 header a:link {
      color: #9A9A9A;
      text-decoration: none;
