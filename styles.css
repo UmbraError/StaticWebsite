@@ -28,7 +28,7 @@ header h1 {
      top: 30px;
 }
 
-header .Alias {
+header h1 .Alias {
      color: #00FF00;
      margin-left: 170px;
 }
