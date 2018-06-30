@@ -5,6 +5,7 @@ body {
 
 nav ul li {
      display: inline;
+     color: #9A9A9A;
 }
 
 ol, ul {
@@ -31,10 +32,6 @@ header nav {
      top: 60px;
      float: center;
      font-weight: bold;
-}
-
-header li {
-     color: #9A9A9A;
 }
 
 header a:link {
