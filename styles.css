@@ -36,7 +36,6 @@ header nav {
 header a:link {
      color: #9A9A9A;
      text-decoration: none;
-     padding: 5px;
 }
 
 header a:visited {
@@ -47,8 +46,6 @@ header a:visited {
 header a:hover {
      color: #72AB00;
      box-shadow: inset 0px 4px #72AB00;
-     padding: 5px;
-
 }
 
 header a:active {
