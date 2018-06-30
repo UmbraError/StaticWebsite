@@ -36,7 +36,6 @@ header nav {
 header a:link {
      color: #9A9A9A;
      text-decoration: none;
-     box-shadow: inset 0px 2px #9A9A9A;
      padding: 5px;
 }
 
