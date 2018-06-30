@@ -19,12 +19,13 @@ header {
 header h1 {
      display: inline;
      position: relative;
-     top: 30px;
+     top: 20px;
 }
 
 header .Alias{
      color: #01FF01;
      text-align: center;
+     float: center;
      position: relative;
 }
 
