@@ -19,7 +19,6 @@ ol, ul {
 /* Header Styles */
 header {
      background-color: black;
-     clear: center;
 }
 
 header h1 {
@@ -29,7 +28,7 @@ header h1 {
 }
 
 header .Alias{
-     color: #FF8800;
+     color: #00FF00;
      text-align: center;
 }
 
