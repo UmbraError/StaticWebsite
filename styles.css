@@ -145,7 +145,7 @@ section ol {
 /* Footer Styles */
 
 footer {
-     box-shadow: inset 0px 1px #9A9A9A;
+     box-shadow: inset 0px 3px #000000;
      position: relative;
 }
 
