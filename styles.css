@@ -28,13 +28,9 @@ header h1 {
      top: 30px;
 }
 
-header .FirstName {
+header .Alias {
      color: #00FF00;
      margin-left: 170px;
-}
-
-header .LastName {
-     color: #9A9A9A;
 }
 
 header h2 {
