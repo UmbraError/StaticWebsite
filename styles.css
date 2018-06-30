@@ -44,10 +44,10 @@ header a:visited {
      text-decoration: none;
 }
 
-header a:hover {
+header nav:hover {
      color: #72AB00;
-     box-shadow: inset 0px 4px #72AB00;
-     padding: 5px;
+     box-shadow: inset 0px 3px #72AB00;
+     padding: 3px;
 
 }
 
