@@ -19,7 +19,7 @@ ol, ul {
 /* Header Styles */
 header {
      background-color: black;
-     clear: right;
+     clear: center;
 }
 
 header h1 {
