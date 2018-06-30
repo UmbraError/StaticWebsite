@@ -44,7 +44,7 @@ header a:visited {
      text-decoration: none;
 }
 
-header nav:hover {
+header li:hover {
      color: #72AB00;
      box-shadow: inset 0px 3px #72AB00;
      padding: 3px;
