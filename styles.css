@@ -22,14 +22,14 @@ header h2 {
      color: #72AB00;
      margin-top: 40px;
      margin-left: 170px;
-     padding-bottom: 30px;
+     padding-bottom: 20px;
 }
 
 header nav {
      text-align: center;
      text-transform: uppercase;
      position: relative;
-     top: 50px;
+     top: 70px;
      float: center;
      font-weight: bold;
 }
