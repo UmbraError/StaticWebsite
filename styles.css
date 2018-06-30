@@ -46,7 +46,7 @@ header a:visited {
 
 header a:hover {
      color: #72AB00;
-     box-shadow: inset 0px 4px #72AB00;
+     box-shadow: inset 0px 2px #72AB00;
 }
 
 header a:active {
