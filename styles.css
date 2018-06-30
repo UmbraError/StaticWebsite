@@ -25,6 +25,7 @@ header h1 {
 header .Alias{
      color: #01FF01;
      text-align: center;
+     position: relative;
 }
 
 header h2 {
@@ -148,6 +149,6 @@ footer p {
 }
 footer nav {
      position: relative;
-     text-align: left;
+     text-align: right;
      top: -35px;
 }
