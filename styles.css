@@ -1,6 +1,13 @@
 /* Page Wide Styles */
 body {
-     font-family: Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+	margin-top: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10px;
 }
 
 nav ul li {
@@ -72,14 +79,6 @@ article {
      box-sizing: padding-box;
 }
 
-.Contact img {
-     padding: 40px 50px 0 0;
-     margin: auto, 0px;
-     float: right;
-     width: 228px;
-     height: 289px;
-}
-
 .Contact h1 {
      color: #72AB00;
 }
@@ -94,10 +93,6 @@ section h2 {
 }
 
 section ol {
-     list-style: none;
-}
-
-.Strengths ul {
      list-style: none;
 }
 
