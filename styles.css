@@ -97,31 +97,12 @@ section ol {
      list-style: none;
 }
 
-.Strengths {
-     margin-left: 0px;
-     float: right;
-     position: relative;
-     left: 250px;
-     top: 20px;
-}
-
-.Strengths h3 {
-     display: inline;
-     color: #72AB00;
-     box-shadow: 0px 1px #9A9A9A;
-     margin-bottom: 0px;
-}
-
 .Strengths ul {
      list-style: none;
 }
 
 .Professional {
 
-}
-
-.Experience  h3, .Education h3 {
-     color: #72AB00;
 }
 
 /* Footer Styles */
