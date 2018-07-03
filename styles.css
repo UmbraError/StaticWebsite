@@ -34,22 +34,22 @@ header nav {
      font-weight: bold;
 }
 
-header nav:link {
+header nav a:link {
      color: #9A9A9A;
      text-decoration: none;
 }
 
-header nav:visited {
+header nav a:visited {
      color: #9A9A9A;
      text-decoration: none;
 }
 
-header nav:hover {
+header nav a:hover {
      color: #72AB00;
      box-shadow: inset 0px 2px #72AB00;
 }
 
-header nav:active {
+header nav a:active {
      color: #72AB00;
      text-decoration: none;
 }
