@@ -1,0 +1,17 @@
+{
+  "name": "Beta UmbraError Website",
+  "productName": "UmbraError.com",
+  "description": "Beta version of a website",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Elizabeth Harasymiw",
+  "copyright": "© 2019, UmbraError inc.",
+  "homepage": "http://UmbraError.com",
+  "scripts": {
+    "release": "webpack --config=build/webpack.app.config.js --env=production"
+  },
+  "dependencies": {
+    "webpack": "^4.38.0"
+  },
+  "devDependencies": {}
+}
